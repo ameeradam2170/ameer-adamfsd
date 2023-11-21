@@ -1,0 +1,56 @@
+
+
+#heading1 {
+    color: blue;
+}
+#heading2 {
+    color: chocolate;
+}
+#heading3 {
+    color: chartreuse;
+}
+#heading4 {
+    color: crimson;
+}
+#heading5 {
+    color: cornflowerblue;
+}
+.pgraph {
+    border: 2px solid red;
+    background-color: yellow;
+    padding: 30px;
+    margin-left: 20px;
+}
+
+
+
+.heading1 {
+    border: 2px solid chartreuse;
+    color: blue;
+    padding: 30px;
+    background-color: chartreuse;
+    margin: 20px;
+}
+.heading2 {
+    border: 2px solid black;
+    color: chartreuse;
+    padding: 30px;
+    background-color: black;
+    margin: 20px;
+}
+.heading3 {
+    border: 2px solid crimson;
+    color: darkblue;
+    padding: 30px;
+    background-color: crimson;
+    margin: 20px;
+}
+.heading4 {
+    border: 2px solid yellow;
+    color: darkgreen;
+    padding: 30px;
+    background-color: yellow;
+    margin: 20px;
+}
+
+
